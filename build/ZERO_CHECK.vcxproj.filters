@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projekte\parsco\build\CMakeFiles\325484ed0c9b44a57ca6860b4042ecc2\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{53617838-6F12-3F07-82C1-C05EE370BE17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
